@@ -1,2 +1,2 @@
 # kalkulatorku
-kalkulatorku? kulkalotarka
+Simple project about calculator in web.
